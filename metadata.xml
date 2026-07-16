@@ -1,0 +1,8 @@
+<metadata>
+    <name>Highlight Player</name>
+    <directory>highlight-player</directory>
+    <id>highlight-player</id>
+    <description>Improves readability by drawing a white outline around the player.</description>
+    <version>0.1.0</version>
+    <visibility>Private</visibility>
+</metadata>
